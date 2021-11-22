@@ -13,14 +13,12 @@ h1, h2 {
   background-color: #006CFA;
   border: 1px solid #FFF;
   padding: 15px 10px;
-  /* min-height: 30px; */
   text-align: center;
 }
 
 [class*="col-"] > [class*="col-"] {
   background-color: #00E165;
   border: 1px solid #006CFA;
-
 }
 
 .space {
